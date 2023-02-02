@@ -18,7 +18,7 @@ A list of software and hardware I use to keep my curiosity going. Some is used f
 
 ### Server (pve1)
 * [ASRock X470D4U](https://www.asrockrack.com/general/productdetail.asp?Model=X470D4U#Specifications)
-  * AMD Ryzen™ 7 [3700X](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x)
+  * AMD Ryzen™ 7 ([3700X](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x))
   * 128 GB RAM ([4 x 32GB DDR4-2666 UDIMM](https://www.crucial.com/memory/ddr4/ct32g4dfd8266))
   * Synology M.2 Adapter Card ([M2D18](https://www.synology.com/en-us/products/M2D18#specs))
   * Boot/OS: 2 x Seagate Barracuda 510 500GB ([ZP500CM30001](https://www.seagate.com/support/internal-hard-drives/ssd/barracuda-510-ssd/))
