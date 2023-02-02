@@ -16,7 +16,7 @@ Here is a list of hardware and software I use to keep my curiosity going.
   * SSD1: Samsung 850 EVO 500GB (SSD) ([MZ-75E500B/AM](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-500gb-mz-75e500b-am/))
   * SSD2: Samsung 850 EVO 250GB (M.2 SATA III) ([MZ-N5E250BW](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-m-2-250gb-mz-n5e250bw/#specs))
 
-# Software
+## Software
 
 * [Proxmox VE](https://www.proxmox.com/en/)
 * [Docker](https://www.docker.com/)
