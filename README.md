@@ -5,7 +5,7 @@ A list of software and hardware I use to keep my curiosity going. Some is used f
 ### Software
 
 | Operating Systems | Virtualization Software | Other Software |
-| --- |:---:|---|
+| --- | --- |---|
 |[Ubuntu](https://ubuntu.com/)          | [Proxmox](https://www.proxmox.com/en/) | [Ansible](https://www.ansible.com/) |
 |[Debian](https://www.debian.org/)      | [Docker](https://www.docker.com/) | [Apache Tomcat](https://tomcat.apache.org/) |
 |[Alpine](https://www.alpinelinux.org/) | [VMware ESXi](https://www.vmware.com/products/esxi-and-esx.html) | [piHole](https://pi-hole.net/) |
