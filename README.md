@@ -18,7 +18,7 @@ A list of software and hardware I use to keep my curiosity going. Some is used f
 
 ### Server (pve1)
 * [ASRock X470D4U](https://www.asrockrack.com/general/productdetail.asp?Model=X470D4U#Specifications)
-  * [AMD Ryzen™ 7 3700X](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x)
+  * AMD Ryzen™ 7 [3700X](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x)
   * 128 GB RAM ([4 x 32GB DDR4-2666 UDIMM](https://www.crucial.com/memory/ddr4/ct32g4dfd8266))
   * Synology M.2 Adapter Card ([M2D18](https://www.synology.com/en-us/products/M2D18#specs))
   * Boot/OS: 2 x Seagate Barracuda 510 500GB ([ZP500CM30001](https://www.seagate.com/support/internal-hard-drives/ssd/barracuda-510-ssd/))
@@ -27,7 +27,7 @@ A list of software and hardware I use to keep my curiosity going. Some is used f
 ### Server (pve2)
 
 * [Supermicro X10SRH-CF](https://www.supermicro.com/en/products/motherboard/X10SRH-CF)
-  * Intel® Xeon® Processor ([E5-2690 v3](https://www.intel.com/content/www/us/en/products/sku/81713/intel-xeon-processor-e52690-v3-30m-cache-2-60-ghz/specifications.html))
+  * Intel® Xeon® ([E5-2690 v3](https://www.intel.com/content/www/us/en/products/sku/81713/intel-xeon-processor-e52690-v3-30m-cache-2-60-ghz/specifications.html))
   * 128 GB RAM ([2 x 64GB Registered ECC LRDIMM, DDR4-2400MHz](https://store.supermicro.com/64gb-ddr4-2133-mem-dr464l-hl01-lr21.html))
   * Synology M.2 Adapter Card ([M2D18](https://www.synology.com/en-us/products/M2D18#specs))
   * Boot/OS: 1 TB Samsung SSD 980 ([MZ-V8V1T0B/AM](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pcie-3-0-nvme-gaming-ssd-1tb-mz-v8v1t0b-am/))
