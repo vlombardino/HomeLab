@@ -30,7 +30,7 @@ A list of software and hardware I use to keep my curiosity going. Some is used f
 
 * 3U Supermicro [SC836](https://www.supermicro.com/manuals/chassis/3U/SC836.pdf) Chassis | Supermicro [X10SRH-CF](https://www.supermicro.com/en/products/motherboard/X10SRH-CF)
   * Intel® Xeon® ([E5-2690 v3](https://www.intel.com/content/www/us/en/products/sku/81713/intel-xeon-processor-e52690-v3-30m-cache-2-60-ghz/specifications.html))
-  * 128 GB RAM 2x 64GB Registered ECC LRDIMM, DDR4-2400MHz ([HMAA8GL7MMR4N-TF](https://store.supermicro.com/64gb-ddr4-2133-mem-dr464l-hl01-lr21.html))
+  * 128 GB RAM 2x 64 GB Registered ECC LRDIMM, DDR4-2400MHz ([HMAA8GL7MMR4N-TF](https://store.supermicro.com/64gb-ddr4-2133-mem-dr464l-hl01-lr21.html))
   * Synology M.2 Adapter Card ([M2D18](https://www.synology.com/en-us/products/M2D18#specs))
   * Boot/OS: 1 TB Samsung 980 (NVMe) ([MZ-V8V1T0B/AM](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pcie-3-0-nvme-gaming-ssd-1tb-mz-v8v1t0b-am/))
   * SSD0: Crucial MX500 2TB (SSD) ([CT2000MX500SSD1](https://www.crucial.com/ssd/mx500/ct2000mx500ssd1))
@@ -38,9 +38,11 @@ A list of software and hardware I use to keep my curiosity going. Some is used f
   * SSD2: Samsung 850 EVO 250GB (M.2 SATA III) ([MZ-N5E250BW](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-m-2-250gb-mz-n5e250bw/#specs))
 
 ### Server (down for repairs)
-* 2U Chassis Supermicro [SC825](https://www.supermicro.com/manuals/chassis/2U/SC825.pdf) | Supermicro [X8DTi-F](https://www.supermicro.com/manuals/motherboard/5500/MNL-1062.pdf)
+* 2U Chassis Supermicro [SC825](https://www.supermicro.com/manuals/chassis/2U/SC825.pdf) | Supermicro [X10SRH-CF](https://www.supermicro.com/en/products/motherboard/X10SRH-CF)
   * 2x Intel® Xeon® ([L5640](https://ark.intel.com/content/www/us/en/ark/products/47926/intel-xeon-processor-l5640-12m-cache-2-26-ghz-5-86-gts-intel-qpi.html))
-  * 32 GB RAM DDR3
+  * Intel® Xeon® ([E5-2690 v3](https://www.intel.com/content/www/us/en/products/sku/81713/intel-xeon-processor-e52690-v3-30m-cache-2-60-ghz/specifications.html))
+  * 64 GB RAM 2x 32 GB Registered ECC LRDIMM, DDR4-2400MHz ([HMAA8GL7MMR4N-TF](https://store.supermicro.com/64gb-ddr4-2133-mem-dr464l-hl01-lr21.html))
+  * SSD0: WD Blue 3D NAND (SSD) 4x ([WDS250G2B0A](https://www.westerndigital.com/en-il/products/internal-drives/wd-blue-3d-nand-sata-ssd))
 
 ### NAS (RackStation)
 * 2U Chassis Synology [RS3617xs](https://global.download.synology.com/download/Document/Hardware/DataSheet/RackStation/17-year/RS3617xs/enu/Synology_RS3617xs_Data_Sheet_enu.pdf)
